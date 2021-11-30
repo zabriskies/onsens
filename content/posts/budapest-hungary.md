@@ -3,7 +3,6 @@ title: Budapest / Hungary
 date: 2021-11-29T16:17:02.529Z
 published: true
 tags:
-  - onsen
   - europe
   - hungary
 cover_image: ../../static/images/uploads/bud1.jpg
