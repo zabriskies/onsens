@@ -6,13 +6,14 @@ tags:
   - europe
   - hungary
 cover_image: ../../static/images/uploads/bud1.jpg
-description: Széchenyi thermal bath Széchenyi gyógyfürdő
+description: Széchenyi thermal bath (Széchenyi gyógyfürdő)
 ---
 historical thermal bath in the middle of the city. \
-the building is awesome and advantage of this place is night scene. although i didn't participate.
+the building is awesome and advantage of this place is night scene. \
+..although i didn't participate.
 
-![budapest ](../../static/images/uploads/bud1.jpg)
+![Széchenyi ](../../static/images/uploads/bud1.jpg)
 
-![](../../static/images/uploads/dsc_0415.jpg)
+![Széchenyi](../../static/images/uploads/dsc_0415.jpg)
 
-![](../../static/images/uploads/dsc_0419.jpg)
+![Széchenyi](../../static/images/uploads/dsc_0419.jpg)
