@@ -10,6 +10,8 @@ description: Chemka hot spring
 ---
 ![](../../static/images/uploads/img_0124.jpg)
 
-i had my birthday at Ufulu peak on Kilimanjaro, Africa's tallest mountain. 
+At the day of my birthday, i was at Ufulu peak Kilimanjaro, Africa's tallest mountain. was it so tough but  breathtaking experience. \
+\
+the place called Chemka, the guide took me to the summit gave me this address. 
 
-It was breathtaking experience.
+lukewarm water with deep light blue... peaceful... got fully refreshed.
