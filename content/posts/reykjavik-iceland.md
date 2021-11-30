@@ -8,4 +8,7 @@ tags:
 cover_image: ../../static/images/uploads/img_8313.jpg
 description: blue lagoon
 ---
+Blue lagoon was manific. \
+but there's more special bath. the hotel owner take us to "secret bath spot".
+
 ![](../../static/images/uploads/img_8394-2.jpg)
